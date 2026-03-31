@@ -20,8 +20,7 @@ networking and brand building, and Kaggle for honing skills in machine learning 
 science. 
 Task 3: Explore Coding & Collaboration Platforms Summary: Explored coding practice 
 environments and built a functional collaboration tool to assess digital literacy. Deliverable 
-Links: HackerRank Profile Digital Literacy Awareness Quiz (Google Form): 
-https://www.google.com/search?q=https://forms.gle/65Vc9XDE257DUigi6 Details: 
+Links: HackerRank Profile Digital Literacy Awareness Quiz Details: 
 Completed introductory Python challenges on HackerRank to grasp basic syntax and logic 
 f
 low. Utilized Google Workspace to design a 5-question quiz via Google Forms, which 
